@@ -32,7 +32,7 @@ global.packname = 'beaconcreambot'
 global.author = 'creamteam!'
 
 global.wm = '© CreamTeam! '
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.media = 'https://telegra.ph/file/0bdd84bd5a8099a789828.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
